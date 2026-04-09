@@ -1,0 +1,5 @@
+{
+  "name": "ORICKS v4.0: Advanced 35-Agent FDA Review System",
+  "description": "An advanced regulatory operating system for FDA 510(k) reviews, featuring automated web search summaries, comprehensive 510(k) summaries, dataset extraction, report generation, and dynamic skill creation.",
+  "requestFramePermissions": []
+}
